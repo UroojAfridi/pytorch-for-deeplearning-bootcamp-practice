@@ -6,7 +6,11 @@ This repository contains my **daily learning progress**, including:
 - Assignments
 
 ## Structure
-- `Day-01/` → Basics & Introduction-
+- `Section-01/` → Introduction
+- `Section-02/` → PyTorch Fundamentals
+- `Section-03/` → PyTorch Workflow
+- `Section-04/` → PyTorch Neural Network Classification
+- `Section-05/` → PyTorch Computer Vision
 - ...
 
 ## Goal
